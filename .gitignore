@@ -1,0 +1,12 @@
+/target/
+# Ignore the .settings folder
+.settings/
+
+# Ignore the logs folder
+logs/
+
+# Ignore the target folder
+target/
+
+# Ignore the test-output folder
+test-output/
